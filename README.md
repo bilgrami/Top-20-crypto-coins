@@ -11,9 +11,9 @@ Data is obtained from [coinlore API](https://api.coinlore.com/api/tickers/?start
 
 # Demo URL
 
-Use below link to see crypto coin prices. Note that you need to login via a verified email account.
+Use this [link](http://syedbilgrami-hostingproject-dev-dev.s3-website-us-east-1.amazonaws.com/){:target="_blank"} to see latest crypto coin prices.
 
-[link](http://syedbilgrami-hostingproject-dev-dev.s3-website-us-east-1.amazonaws.com/)
+Note that you need to login via a verified email account.
 
 # To Deploy
 
