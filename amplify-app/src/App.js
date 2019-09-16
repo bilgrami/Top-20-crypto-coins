@@ -27,8 +27,8 @@ return (
     {
       coins.map((coin, index) => (
         <div key={index}>
-          <h2>{coin.name} - {coin.symbol}</h2>
-          <h5>${coin.price_usd}</h5>
+          <h2>{coin.rank}) {coin.name} - {coin.symbol}</h2>
+          <h5>Price USD: ${coin.price_usd}, Market CAP: ${coin.market_cap_usd}, BTC Price: ${coin.price_btc}</h5>
         </div>
       ))
     }

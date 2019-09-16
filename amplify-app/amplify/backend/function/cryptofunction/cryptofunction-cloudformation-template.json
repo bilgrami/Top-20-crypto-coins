@@ -63,7 +63,7 @@
 				"Timeout": "25",
 				"Code": {
 					"S3Bucket": "resumeproject-dev-20190913112059-deployment",
-					"S3Key": "amplify-builds/cryptofunction-30516142555463553442-build.zip"
+					"S3Key": "amplify-builds/cryptofunction-6d63416e6e7865756633-build.zip"
 				}
 			}
 		},
