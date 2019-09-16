@@ -17,20 +17,24 @@ Use below link to see crypto coin prices. Note that you need to login via a veri
 
 # To Deploy
 
-Clicking on that button will open Amplify Console and propose a three step process to deploy this code.
-
+Clicking on below button will open Amplify Console and start a three step process to deploy this code.
 [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/bilgrami/resume)
 
 ![amplify-console](https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2019/07/24/2019-07-24_15-36-32-1024x465.png "amplify-console")
 
-# Services and Technologies
+# Technologies
 
-* Serverless Lambda Function
-* Auth (via Email)
-* Amplify CLI and Amplify Console
-* Hosting on S3 Bucket and cloudfront
-* Cloud Formation
-* AppSync
+* AWS Serverless Lambda Function
+* AWS Auth (via Email)
+* AWS Amplify CLI and Amplify Console
+* AWS Hosting on S3 Bucket and cloudfront
+* AWS Cloud Formation
+* AWS AppSync
 * GraphQL
+* React JS
 
 ![amplify-status](https://raw.githubusercontent.com/bilgrami/resume/master/amplify-app/public/amplify-status.JPG "amplify status")
+
+---
+Last updated on 9/15/2019
+
